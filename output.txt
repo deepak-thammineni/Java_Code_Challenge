@@ -1,0 +1,14 @@
+1) Number of words present in given file: 443
+2) repeated words in sorted order
+In    :17
+formats    :14
+in    :10
+is    :8
+open    :7
+or    :5
+price    :5
+the    :5
+to    :4
+used    :4
+3) last sentence that contains most used word:
+ In descending-bid auctions a high bid is first made, then the price is consecutively lowered until someone expresses a willingness to pay the object
